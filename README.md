@@ -6,6 +6,10 @@
 
 A modern, interactive implementation of the classic Tower of Hanoi puzzle built with React, TypeScript, and Vite. Experience the mathematical challenge with smooth animations, customizable difficulty, and real-time move tracking.
 
+## Live Demo
+
+[Play Tower Odyssey](https://tower-of-hanoi-colourful.vercel.app/)
+
 ## Features
 
 - **Interactive Gameplay**: Drag and drop disks between towers
