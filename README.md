@@ -1,7 +1,6 @@
 <div align="center">
-<img width="1200" height="475" alt="Tower Odyssey Image" src="image.png" />
+<img width="1200" height="475" alt="Tower Odyssey Image" src="image.png"/>
 </div>
-
 # Tower Odyssey
 
 A modern, interactive implementation of the classic Tower of Hanoi puzzle built with React, TypeScript, and Vite. Experience the mathematical challenge with smooth animations, customizable difficulty, and real-time move tracking.
