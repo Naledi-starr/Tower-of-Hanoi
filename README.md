@@ -4,15 +4,38 @@
 
 ## Tower Odyssey
 
-A modern, interactive implementation of the classic Tower of Hanoi puzzle built with React, TypeScript, and Vite. Experience the mathematical challenge with smooth animations, customizable difficulty, and real-time move tracking.
+## Project Overview
 
-## Live Demo
+Tower Odyssey is a modern web implementation of the classic Tower of Hanoi puzzle, showcasing advanced React development skills with TypeScript. This project demonstrates proficiency in:
+
+- **Algorithm Implementation**: Recursive Tower of Hanoi solution with optimal move calculation
+- **Interactive UI/UX**: Drag-and-drop functionality with smooth animations
+- **State Management**: Complex game state handling with React hooks
+- **Performance Optimization**: Efficient rendering of dynamic disk movements
+- **Responsive Design**: Mobile-first approach with Tailwind CSS
+
+## 🛠️ Technical Highlights
+
+- **Recursive Algorithm**: Implemented the mathematical Tower of Hanoi solution with O(2^n) complexity visualization
+- **Advanced Animations**: Smooth disk transitions using Framer Motion with collision detection
+- **TypeScript Integration**: Full type safety with custom interfaces and type definitions
+- **Performance Monitoring**: Real-time move counting and timer functionality
+- **Accessibility**: Keyboard navigation and screen reader support
+
+## 🚀 Live Demo
 
 [Play Tower Odyssey](https://tower-of-hanoi-colourful.vercel.app/)
 
-## Features
+## Development Journey
 
-- **Interactive Gameplay**: Drag and drop disks between towers
+This project was built to demonstrate modern web development skills while solving a classic algorithmic problem. Key challenges included:
+
+- **Algorithm Optimization**: Implementing an efficient recursive solution that scales from 3 to 8 disks
+- **Animation Complexity**: Coordinating multiple disk movements with collision detection and smooth transitions
+- **State Management**: Managing complex game states including undo/redo functionality and move validation
+- **Performance**: Ensuring smooth 60fps animations even with maximum disk configurations
+
+## Features
 - **Visual Feedback**: Smooth animations and color-coded disks
 - **Difficulty Levels**: Choose from 3 to 8 disks
 - **Move Counter**: Track your progress with real-time move counting
@@ -55,7 +78,7 @@ A modern, interactive implementation of the classic Tower of Hanoi puzzle built 
 
 4. **Open your browser** and navigate to `http://localhost:3000`
 
-## 🎮 How to Play
+## How to Play
 
 1. **Objective**: Move all disks from the first tower to the third tower
 2. **Rules**:
